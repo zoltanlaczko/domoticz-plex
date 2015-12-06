@@ -8,7 +8,7 @@ $plex_url="http://10.0.0.200:32400"; // no trailing slash!
 $plex_status=array(
 	'idle'=>'Idle',
 	'playing'=>'Playing',
-	'pause'=>'Pause',
+	'paused'=>'Pause',
 );
 
 /* You don't have to modify anything below! */
